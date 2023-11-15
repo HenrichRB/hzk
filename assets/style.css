@@ -1,0 +1,23 @@
+* {
+    font-family: sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #1c1c1c;
+}
+
+header {
+    background-color: #000;
+    color: #ffd700;
+    height: 150px;
+    text-align: center;
+    border-bottom: 1px solid #ffd700;
+    margin-bottom: 50px;
+}
+
+section > div > p {
+    color: white;
+}
+
